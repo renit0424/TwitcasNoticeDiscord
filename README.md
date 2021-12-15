@@ -16,13 +16,13 @@ pip install schedule
   - config.py
   
   ```#ClientID
-client_id = '***'
-#ClientSecret
-client_secret = '***'
-#UserID
-user_id = '***'
-#discord_webhookURL
-webhookurl = '***'
-```
+  client_id = '***'
+  #ClientSecret
+  client_secret = '***'
+  #UserID
+  user_id = '***'
+  #discord_webhookURL
+  webhookurl = '***'
+  ```
 - あとはtwitcasting.pyを実行。
 多分動く。
