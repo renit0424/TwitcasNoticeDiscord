@@ -13,8 +13,8 @@ pip install schedule
 
 - 設定
   - config.pyにClientID,ClientSecret,UserID,discordのwebhookURLを記載する。
-  - config.py
-  
+
+
   ```#ClientID
   client_id = '***'
   #ClientSecret
