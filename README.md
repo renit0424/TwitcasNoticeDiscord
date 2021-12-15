@@ -1,0 +1,2 @@
+# TwitcasNoticeDiscord
+Twitcastingで気になるあの子の配信開始通知をdiscordに投げてくれるプログラム。
