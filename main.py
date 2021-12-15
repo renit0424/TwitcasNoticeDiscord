@@ -4,10 +4,9 @@ import requests, json
 import schedule
 from pytwitcasting.auth import TwitcastingApplicationBasis
 from pytwitcasting.api import API
-from config import client_id , client_secret, user_id ,webhookurl
+from config import client_id , client_secret, user_id ,webhookurl ,calltime
 
 b = ''
-i = 0
 def job():
     global b
     app_basis = TwitcastingApplicationBasis(client_id=client_id,client_secret=client_secret)
@@ -38,7 +37,7 @@ def job():
         response = requests.post(webhook_url, json.dumps(main_content), headers=headers)
     else:
         print('ツイキャス配信はありません。')
-schedule.every(1).minutes.do(job)
+schedule.every(calltime).minutes.do(job)
 while True:
     schedule.run_pending()
     time.sleep(1)
