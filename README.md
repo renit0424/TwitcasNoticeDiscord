@@ -1,5 +1,6 @@
 # TwitcasNoticeDiscord
 Twitcastingで気になるあの子の配信開始通知をdiscordに投げてくれるプログラム。
+
 クッソ雑に作ってあるので手直ししたい人は勝手にしてください()
 # 使い方
 - [pytwitcasting](https://github.com/tamago324/PyTwitcasting)を使用するのでインストール
