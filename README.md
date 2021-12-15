@@ -24,5 +24,5 @@ pip install schedule
   #discord_webhookURL
   webhookurl = '***'
   ```
-- あとはtwitcasting.pyを実行。
+- あとはmain.pyを実行。
 多分動く。
