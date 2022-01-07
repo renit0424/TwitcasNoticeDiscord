@@ -1,5 +1,9 @@
-# TwitcasNoticeDiscord(通称ツイキャス配信開始通知Bot君(適当))
+# 【Twitcas】Twitcas Notice Discord
+通称ツイキャス配信開始通知Bot君(適当)
+
 [ツイキャス](https://twitcasting.tv/)で気になるあの子の配信開始通知をdiscordに投げてくれるプログラム。
+
+言語はPythonで書いてます。
 
 クッソ雑に作ってあるので手直ししたい人は勝手にしてください()
 # 使い方
