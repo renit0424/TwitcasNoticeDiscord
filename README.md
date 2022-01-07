@@ -1,5 +1,5 @@
 # TwitcasNoticeDiscord
-[twitcasting](https://twitcasting.tv/)で気になるあの子の配信開始通知をdiscordに投げてくれるプログラム。
+[ツイキャス](https://twitcasting.tv/)で気になるあの子の配信開始通知をdiscordに投げてくれるプログラム。
 
 クッソ雑に作ってあるので手直ししたい人は勝手にしてください()
 # 使い方
