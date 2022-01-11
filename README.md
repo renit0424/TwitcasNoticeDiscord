@@ -29,6 +29,7 @@ pip install schedule
   client_secret = '***'
   user_id = '***'
   webhookurl = '***'
+  calltime = 10 #ループの時間(分)
   ```
 あとはmain.pyを実行。
 多分動く。
