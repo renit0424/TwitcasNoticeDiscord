@@ -19,7 +19,7 @@ pip install schedule
 # ツイキャスアプリケーション登録ページでAPIを発行
   1.[アプリケーション登録ページ](https://apiv2-doc.twitcasting.tv/#introduction)で登録。
   
-  2.のちのち使う`ClientID`,`ClientSecret`をメモしておくか設定のconfig.pyに記載しておく。
+  2.後で使うので`ClientID`,`ClientSecret`をメモしておくか設定のconfig.pyに記載しておく。
 # discordのWebhookURLを発行する。
   [こっから](https://support.discord.com/hc/ja/articles/228383668-%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-Webhooks%E3%81%B8%E3%81%AE%E5%BA%8F%E7%AB%A0)サイト見ながら発行する。
 # 設定
